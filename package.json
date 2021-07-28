@@ -1,8 +1,8 @@
 {
-  "name": "woohoo",
+  "name": "umnomequalquer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://black-dev-x.github.io/woohoo/",
+  "homepage": "https://black-dev-x.github.io/umnomequalquer/",
   "dependencies": {
     "node-sass": "4.14.1",
     "react": "17.0.2",
